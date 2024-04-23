@@ -1,0 +1,5 @@
+- Download by clicking code and then download zip
+- Open the unextracted zip file and click on the demo
+- Click Run
+- Click more info
+- Run anyway
